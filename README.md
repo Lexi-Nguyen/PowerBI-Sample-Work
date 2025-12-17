@@ -24,7 +24,7 @@ For more projects, visit my [GitHub](https://github.com/Lexi-Nguyen)
 
 ## 📊 Featured Projects
 
-### Project 1: Unicorn Companies Global Overview Dashboard
+## Project 1: Unicorn Companies Global Overview Dashboard
 
 This Power BI dashboard provides an interactive overview of **global unicorn companies**, focusing on their distribution by country, industry, valuation, and funding raised. Users can explore the top unicorn companies by valuation, identify countries and industries with the highest number of unicorns, and analyse investment trends across regions.
 
@@ -32,6 +32,29 @@ The dashboard includes dynamic slicers for country, industry, and valuation rang
 
 Key visuals include a global map to show the geographical concentration of unicorns, bar charts highlighting trends such as the United States leading in unicorn count and Fintech as the most dominant industry, and summary tables for quick comparison.
 
-<a href="https://github.com/Lexi-Nguyen/PowerBI-Sample-Work/blob/main/Screen%20Recording%202025-12-12%20130941.mov">View Dashboard</a>
+![Image](https://github.com/user-attachments/assets/7b48eeae-a2f8-4329-ac53-f0fb92d013db)
 
-![Image](https://github.com/user-attachments/assets/4e5c581b-5649-477e-b25c-db6a81394a0f)
+---
+
+## Project 2: Sydney LGA Screening Analysis for International School Expansion
+
+This dashboard supports St Ann, a New York-based school, in **assessing the potential to expand** into Sydney, Australia by analysing selected Sydney LGAs. It examines key demographic and socio-economic indicators such as household income, age distribution, language spoken at home, and family composition to evaluate market suitability.
+
+Interactive visuals allow comparison across LGAs, highlighting areas with higher proportions of school-aged children, stronger income levels, and family-oriented households. Overall, the dashboard demonstrates how data can inform market viability and location selection decisions for international school expansion.
+
+<img width="1301" height="735" alt="Image" src="https://github.com/user-attachments/assets/d7a0ad90-e7fd-482d-b5a8-8132d403d293" />
+
+---
+
+## Project 3: Bank Marketing Campaign Performance Analysis
+
+This dashboard evaluates the **performance of a bank’s telephonic marketing campaign** for promoting term deposits. It provides an overview of key campaign metrics such as total customers contacted, total subscriptions, average call duration, and average contacts per customer to assess overall effectiveness.
+
+The dashboard analyses subscription outcomes across customer segments including age group, job type, education level, marital status, and housing status. Interactive slicers enable users to identify which customer groups are more likely to subscribe, with insights highlighting stronger conversion among specific job roles, education levels, and age groups.
+
+Overall, the dashboard demonstrates how campaign data can be used to improve customer targeting, optimise call centre efforts, and support more cost-effective marketing decisions.
+
+<img width="1412" height="775" alt="Image" src="https://github.com/user-attachments/assets/208f03cb-f30b-47f7-a8c0-7f7cf7c9c2c5" />
+
+
+
