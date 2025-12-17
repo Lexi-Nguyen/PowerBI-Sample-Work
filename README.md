@@ -1,4 +1,4 @@
-# PowerBI-Sample-Work
+# PowerBI-Projects
 Hi there! I'm Lexi, an aspiring Data Analyst with a strong interest in turning data into meaningful insights.
 
 Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
