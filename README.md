@@ -54,7 +54,13 @@ The dashboard analyses subscription outcomes across customer segments including 
 
 Overall, the dashboard demonstrates how campaign data can be used to improve customer targeting, optimise call centre efforts, and support more cost-effective marketing decisions.
 
-<img width="1412" height="775" alt="Image" src="https://github.com/user-attachments/assets/208f03cb-f30b-47f7-a8c0-7f7cf7c9c2c5" />
+<img width="1412" height="775" alt="Image" src="https://github.com/user-attachments/assets/208f03cb-f30b-47f7-a8c0-7f7cf7c9c2c5" /> 
+
+## Contact Information
+
+If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [klinhng1511@gmail.com](mailto:klinhng1511@gmail.com) or connect with me on LinkedIn at [Lexi Nguyen](https://www.linkedin.com/in/lexi-nguyen-b56a3a28a).
+
+Thank you for visiting my Portfolio! I hope you find my projects informative and insightful.
 
 
 
