@@ -29,6 +29,7 @@ For more projects, visit my [GitHub](https://github.com/Lexi-Nguyen)
 This Power BI dashboard provides an interactive overview of **global population trends** across selected countries and continents.
 
 The dashboard allows users to dynamically filter and explore the data, it highlights key metrics such as total population, land area, number of countries, and population density to support quick, high-level insights.
+
 ![Image](https://github.com/user-attachments/assets/4359ea70-65ad-45d9-901b-11819902a1c8)
 
 <img width="1226" height="703" alt="Image" src="https://github.com/user-attachments/assets/00150150-781b-4650-b645-f3f667fdece5" />
@@ -42,6 +43,7 @@ This Power BI dashboard provides an interactive overview of **global unicorn com
 The dashboard includes dynamic slicers for country, industry, and valuation range, allowing flexible and user-driven analysis. A **Clear Slicers** button was implemented to instantly reset all filters and return the dashboard to its default view, improving usability and navigation.
 
 Key visuals include a global map to show the geographical concentration of unicorns, bar charts highlighting trends such as the United States leading in unicorn count and Fintech as the most dominant industry, and summary tables for quick comparison.
+
 ![Image](https://github.com/user-attachments/assets/7b48eeae-a2f8-4329-ac53-f0fb92d013db)
 
 <img width="1417" height="758" alt="Image" src="https://github.com/user-attachments/assets/1e1f1a8e-b19e-4573-b27f-2176649ebc77" />
