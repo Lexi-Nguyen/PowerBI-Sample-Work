@@ -24,7 +24,15 @@ For more projects, visit my [GitHub](https://github.com/Lexi-Nguyen)
 
 ## 📊 Featured Projects
 
-## Project 1: Unicorn Companies Global Overview Dashboard
+## Project 1:
+
+This Power BI dashboard provides an interactive overview of **global population trends** across selected countries and continents.
+
+The dashboard allows users to dynamically filter and explore the data, it highlights key metrics such as total population, land area, number of countries, and population density to support quick, high-level insights.
+
+![Image](https://github.com/user-attachments/assets/1178f237-471e-45d4-a2b8-260c6b3641bb)
+
+## Project 2: Unicorn Companies Global Overview Dashboard
 
 This Power BI dashboard provides an interactive overview of **global unicorn companies**, focusing on their distribution by country, industry, valuation, and funding raised. Users can explore the top unicorn companies by valuation, identify countries and industries with the highest number of unicorns, and analyse investment trends across regions.
 
@@ -36,7 +44,7 @@ Key visuals include a global map to show the geographical concentration of unico
 
 ---
 
-## Project 2: Sydney LGA Screening Analysis for International School Expansion
+## Project 3: Sydney LGA Screening Analysis for International School Expansion
 
 This dashboard supports St Ann, a New York-based school, in **assessing the potential to expand** into Sydney, Australia by analysing selected Sydney LGAs. It examines key demographic and socio-economic indicators such as household income, age distribution, language spoken at home, and family composition to evaluate market suitability.
 
@@ -46,7 +54,7 @@ Interactive visuals allow comparison across LGAs, highlighting areas with higher
 
 ---
 
-## Project 3: Bank Marketing Campaign Performance Analysis
+## Project 4: Bank Marketing Campaign Performance Analysis
 
 This dashboard evaluates the **performance of a bank’s telephonic marketing campaign** for promoting term deposits. It provides an overview of key campaign metrics such as total customers contacted, total subscriptions, average call duration, and average contacts per customer to assess overall effectiveness.
 
